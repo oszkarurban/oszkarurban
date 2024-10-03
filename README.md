@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **oszkarurban/oszkarurban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,15 +18,12 @@ I'm **Oszkár Urbán**, a BSc student of Computer Science. I am a tech & entrepr
 
 I am open to Internship positions for the Summer of 2025.
 
----
-
 ## Education 📚
 **Charles University in Prague**  
 BSc Computer Science (Specialization: Artificial Intelligence)
 - [Computational Systems Neuroscience Group](https://csng.mff.cuni.cz/)
 - Courses: Mathematical Analysis, Linear Algebra, Algorithms & Data Structures, Introduction to AI, ML in Python, NLP
 Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & OS, Computer Networking
----
 
 ## Research Experience 🔬
 
@@ -46,8 +41,6 @@ Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & 
 ### **NLP Student Researcher – Institute of Formal and Applied Linguistics, CUNI** (Prof. Ondřej Bojar)  
 - Studied sentence topology to perform word vector arithmetic operations on entire sentences.
 - Investigated how adding modifier words influenced changes in LaBSE (HuggingFace) sentence embeddings.
-
----
 
 ## Work Experience 💼
 
@@ -69,13 +62,9 @@ Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & 
 - Designed and developed an HTTP-based CRUD API, enabling efficient data manipulation.
 - Managed and coordinated weekly meetings of 7 junior developers, focusing on project alignment.
 
----
-
 ## Technologies 🛠️
 - Python, PyTorch, scikit-learn | C#, Java | JavaScript, TypeScript | Blazor (C#), Vue.js, Flutter (Dart) | HTML, CSS | SQL  
 - Google Cloud Platform, Firebase, AWS | Docker & Kubernetes | MongoDB |NodeJS, Digital Ocean | Bash, Git, Linux
-
----
 
 ## Project Experience 🚀
 
@@ -93,9 +82,7 @@ Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & 
 ### **Talentum Robotics Team - Project Lead & Engineer**  
 - Led the development of a disinfection device for cleaning astronauts' clothing without water.
 - Collaborated with the European Space Agency and presented the invention to representatives from NASA in San Jose, USA.
-- Award: Global Innovation Award Finalist (nominated by FIRST) - recognized among the top 20 inventions.
-
----
+- Award: Global Innovation Award Finalist (nominated by FIRST) - recognized among the top 20 inventions
 
 ## Leadership Experience 🚀
 
@@ -104,7 +91,5 @@ Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & 
 - Navigated our company through the pandemic by pivoting the target group, resulting in stabilized sales.
 - Coordinated ongoing product improvements that resulted in a 9% customer satisfaction increase.
 - **Awards:** Junior Achievement Leadership Award, Junior Achievement Company of the Year 2021, Ralph De La Vega Global Entrepreneurship Award
-
----
 
 Feel free to reach out via email **osiurban@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/oszkarurban).
