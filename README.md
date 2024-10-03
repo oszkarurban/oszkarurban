@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-I'm **Oszkár Urbán**, a BSc student of Computer Science. I am a tech & entrepreneurship enthusiast passionate about Natural Language Processing, Machine Learning, and its application in Neuroscience.
+I'm **Oszkár Urbán**, a BSc student of Computer Science. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing**, **Machine Learning**, and its application in **Neuroscience**.
 
-I am open to Internship positions for the Summer of 2025.
+I am open to **Internship positions** for the **Summer of 2025**.
 
 ## Education 📚
 **Charles University in Prague**  
-BSc Computer Science (Specialization: Artificial Intelligence)
-- [Computational Systems Neuroscience Group](https://csng.mff.cuni.cz/)
+- BSc Computer Science (Specialization: Artificial Intelligence)
+- Student Researcher: [Computational Systems Neuroscience Group](https://csng.mff.cuni.cz/)
 - Courses: Mathematical Analysis, Linear Algebra, Algorithms & Data Structures, Introduction to AI, ML in Python, NLP
 Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & OS, Computer Networking
 
@@ -33,7 +33,7 @@ Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & 
 - Improved gradient flow during PGD attack, increasing the enforceable image description length from 4 to 19 tokens.
 - Developed an E2E adversarial attack pipeline that reliably fooled state-of-the-art VisualWebArena agents.
 
-### **ML Student Researcher – Computational Neuroscience Group, CUNI** (Prof. Jan Antolik)  
+### **ML Student Researcher – Computational Systems Neuroscience Group, CUNI** (Prof. Jan Antolik)  
 - Project: Modeling Dopaminergically and Visually Driven Theory of Schizophrenia Development  
 - Recorded neural activity of the visual cortex (V1) in normal and diseased conditions with Mozaik (spiking NN system).
 - Developed a DNN to decode stimuli from V1 responses assessing differences related to dopaminergic dysfunction.
@@ -87,7 +87,7 @@ Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & 
 ## Leadership Experience 🚀
 
 ### **Scribo - Co-founder & CEO**  
-- Achieved €20k in revenue within 12 months while contributing to sustainability by saving over 1000 kg of plastic with our zero-waste whiteboard markers.
+- Achieved €20k in revenue within the first 12 months while contributing to sustainability by saving over 1000 kg of plastic with our zero-waste whiteboard markers.
 - Navigated our company through the pandemic by pivoting the target group, resulting in stabilized sales.
 - Coordinated ongoing product improvements that resulted in a 9% customer satisfaction increase.
 - **Awards:** Junior Achievement Leadership Award, Junior Achievement Company of the Year 2021, Ralph De La Vega Global Entrepreneurship Award
