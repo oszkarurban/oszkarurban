@@ -14,64 +14,70 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-I'm **Oszkár Urbán**, a BSc student of Computer Science. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing**, **Machine Learning**, and its application in **Neuroscience**.
+I'm **Oszkár Urbán**, an MPhil student of Advanced Computer Science. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing**, **Machine Learning**, and its application in **Neuroscience**.
 
-I am open to **Internship positions** for the **Summer of 2025**.
+I am open to **Full-time positions** from the **July of 2026** onwards.
 
 ## Education 📚
+**University of Cambridge**  
+- Mphil Advanced Computer Science
+- King's College, King's College Entrepreneurship Lab
+
 **Charles University in Prague**  
 - BSc Computer Science (Specialization: Artificial Intelligence)
-- Student Researcher: [Computational Systems Neuroscience Group](https://csng.mff.cuni.cz/)
-- Courses: Mathematical Analysis, Linear Algebra, Algorithms & Data Structures, Introduction to AI, ML in Python, NLP
-Nature Inspired Algorithms, Logic, Automata & Grammars, Computer Architecture & OS, Computer Networking
+- Graduated First Class with Honours
+- Top of the Class (2022/'23, 2023/'24)
+- Selected courses: Mathematical Analysis, Linear Algebra, Algorithms & Data Structures, Introduction to AI, Machine Learning in Python, Machine Learning in Computer Vision, NLP, Programming (Python, C#, Java), Nature Inspired Algorithms, Formal Logic, Automata & Grammars, Computer Architecture & Operation Systems, Database Systems, Computer Networking
 
 ## Research Experience 🔬
 
-### **Research Fellow – Secure, Reliable, Intelligent Systems Lab, ETH Zurich** (Prof. Martin Vechev)  
-- Project: Investigate the robustness of LLM-based Web Agents under adversarial attacks  
-- Implemented Projected Gradient Descent (PGD) algorithm to alter images for a target adversarial image description.
-- Improved gradient flow during PGD attack, increasing the enforceable image description length from 4 to 19 tokens.
-- Developed an E2E adversarial attack pipeline that reliably fooled state-of-the-art VisualWebArena agents.
+### **Research Fellow – ETH Zurich** (Prof. Martin Vechev)  
+- Project: Investigate the robustness of MLLM-based Web Agents under adversarial attacks 
+- Implemented a Projected Gradient Descent attack pipeline for altering images to match adversarial image captions
+- Improved gradient flow, increasing enforceable adversarial prompt length from 4 to 19 tokens
+- Successfully fooled state-of-the-art VisualWebArena agents on online shopping tasks with E2E adversarial attacks
 
-### **ML Student Researcher – Computational Systems Neuroscience Group, CUNI** (Prof. Jan Antolik)  
-- Project: Modeling Dopaminergically and Visually Driven Theory of Schizophrenia Development  
-- Recorded neural activity of the visual cortex (V1) in normal and diseased conditions with Mozaik (spiking NN system).
-- Developed a DNN to decode stimuli from V1 responses assessing differences related to dopaminergic dysfunction.
+### **Deep Learning Researcher – Computational Neuroscience Group, CUNI** (Prof. Jan Antolik)
+- Project: Modelling visually driven theory of schizophrenia using DNN
+- Simulated primary visual cortex (V1) activity in healthy and diseased conditions using a biologically realistic spiking NN
+- Developed a CNN decoder to reconstruct visual stimuli from V1, quantified schizophrenia-induced visual impairments
+- In-vivo research continuation at Harvard University, USA, in collaboration with the National Institute of Mental Health
 
 ### **NLP Student Researcher – Institute of Formal and Applied Linguistics, CUNI** (Prof. Ondřej Bojar)  
-- Studied sentence topology to perform word vector arithmetic operations on entire sentences.
-- Investigated how adding modifier words influenced changes in LaBSE (HuggingFace) sentence embeddings.
+- Analysed the topology of sentence embeddings to infer semantic structure from LaBSE embedings 
+- Studied how linguistic modifiers influence shifts in LaBSE (HuggingFace) embedding space
 
 ## Work Experience 💼
 
-### **Kubernetes R&D Intern at Kasten by Veeam**  
+### **Software Engineer Intern - Kasten by Veeam**  
 - Project: Translate Velero (a competitor) backup data into Kasten's K10 (our) format
 - Developed a tool that migrates backups from Velero to Kasten, resulting in an expanded costumer base.
 - Researched Kubernetes incremental backups, enabling me to reverse-engineer Velero's Go codebase.
 - Created internal Design Documentation, used by 20+ developers for streamlined project development.
 
-### **Backend Developer at NIXI**  
+### **Backend Developer - NIXI**  
 - Project: Gamified app for improving children’s emotional health
 - Developed an autosave functionality for real-time collaborative editing in the admin's interface.
 - Created end-to-end System Design with Lucidchart, integrated MongoDB as a database solution.
 - Implemented Google Cloud Platform cloud callback functions to manage HTTP calls from client-side.
 
-### **Application Developer at LYNX**  
+### **Application Developer - LYNX**  
 - Project: HR automation tool for office operations and informed decision-making
 - Integrated Google Workspace API to perform employee data analyses for informed strategic decisions.
-- Designed and developed an HTTP-based CRUD API, enabling efficient data manipulation.
+- Built RESTful HTTP-based CRUD APIs, integrating Google Cloud Platform services (Realtime DB, Auth, Cloud Functions).
 - Managed and coordinated weekly meetings of 7 junior developers, focusing on project alignment.
 
 ## Technologies 🛠️
-- Python, PyTorch, scikit-learn | C#, Java | JavaScript, TypeScript | Blazor (C#), Vue.js, Flutter (Dart) | HTML, CSS | SQL  
+- Python, C#, Java | PyTorch, scikit-learn, NumPy, Pandas | RAG, LangChain, HuggingFace, Weigths & Biases | JavaScript, TypeScript, SQL
 - Google Cloud Platform, Firebase, AWS | Docker & Kubernetes | MongoDB |NodeJS, Digital Ocean | Bash, Git, Linux
+- Blazor (C#), Vue.js, Flutter (Dart) | HTML, CSS  
 
 ## Project Experience 🚀
 
 ### **pAIntry - AI Cooking Assistant (ML project)**
 - Developed and fine-tuned a prompt-driven AI web app, crafting personalized recipes by analyzing inventory.
 
-### **Meta Spark Hackathon - Winner**  
+### **Meta Hackathon - Winner**  
 - Created an AR filter utilizing Meta Spark Studio's Object and Face tracker features.
 
 ### **GrabniTo - Founder & App Developer**  
