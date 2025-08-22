@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm **Oszkár Urbán**, an MPhil student of Advanced Computer Science. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing**, **Machine Learning**, and its application in **Neuroscience**.
 
-I am open to **Full-time positions** from the **July of 2026** onwards.
+I am open to **Full-time positions** from **July 2026** onwards.
 
 ## Education 📚
 **University of Cambridge**  
