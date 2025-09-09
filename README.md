@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-I'm **Oszkár Urbán**, an MPhil student of Advanced Computer Science. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing**, **Machine Learning**, and its application in **Neuroscience**.
+I'm **Oszkár Urbán**, an MPhil student of Advanced Computer Science at the University of Cambridge. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing**, **Machine Learning**, and its application in **Neuroscience**.
 
 I am open to **Full-time positions** from **July 2026** onwards.
 
