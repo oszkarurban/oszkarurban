@@ -21,7 +21,15 @@ I am open to **Full-time positions** from **July 2026** onwards.
 ## Education 📚
 **University of Cambridge**  
 - Mphil Advanced Computer Science
+- Cambridge AI Safety Hub
 - King's College, King's College Entrepreneurship Lab
+
+Selected work:
+- LLM  Activation Steering: Developed test-time activation steering methods for improved model alignment and yielding +12.5% improvement on Multiple Choice QA accuracy 
+- LLM Inference Efficiency: Speculative Decoding (collab. Samsung AI): Improved CoT LLM inference on SGLang via speculative decoding by over 30%
+- Mechanistic Interpretability: SAE-based mechanistic interpretability for multimodal Alzheimer's prediction from text+neuroimaging data
+- Model Finetuning (Petar Veličković (DeepMind)): LoRA finetuning for inverse protein folding via VAE structural tokenization
+- Machine Vision Perception: Developed Diffusion Model-based semantic mask segmentation for improved medical image segmentation
 
 **Charles University in Prague**  
 - BSc Computer Science (Specialization: Artificial Intelligence)
@@ -29,7 +37,14 @@ I am open to **Full-time positions** from **July 2026** onwards.
 - Top of the Class (2022/'23, 2023/'24)
 - Selected courses: Mathematical Analysis, Linear Algebra, Algorithms & Data Structures, Introduction to AI, Machine Learning in Python, Machine Learning in Computer Vision, NLP, Programming (Python, C#, Java), Nature Inspired Algorithms, Formal Logic, Automata & Grammars, Computer Architecture & Operation Systems, Database Systems, Computer Networking
 
+## Publications 📚
+**EMNLP 2026**  
+- Speculative Decoding for CoT reasoning LLMs for improved inference efficiency
+
 ## Research Experience 🔬
+
+### **Research Assistant – Univeristy of Cambridge** (Prof. Cengiz Öztireli)  
+- Developing World Models for HMR using IMU data and depth cameras to track body kinematics
 
 ### **Research Fellow – ETH Zurich** (Prof. Martin Vechev)  
 - Project: Investigate the robustness of MLLM-based Web Agents under adversarial attacks 
