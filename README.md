@@ -25,8 +25,9 @@ I am open to **Full-time positions** from **July 2026** onwards.
 - King's College, King's College Entrepreneurship Lab
 
 Selected work:
-- LLM  Activation Steering: Developed test-time activation steering methods for improved model alignment and yielding +12.5% improvement on Multiple Choice QA accuracy 
-- LLM Inference Efficiency (collab. with Samsung AI): Speculative Decoding for improved CoT LLM inference on SGLang via speculative decoding by 4-6x.
+- LLM Safety&Alignemnt
+  - Activation Steering: Developed test-time activation steering methods for improved model alignment and yielding +12.5% improvement on Multiple Choice QA accuracy 
+- Inference Efficiency (collab. with Samsung AI): Speculative Decoding for improved CoT LLM inference on SGLang via speculative decoding by 4-6x.
 - Mechanistic Interpretability: SAE-based mechanistic interpretability for multimodal Alzheimer's prediction from text+neuroimaging data
 - Model Finetuning (Petar Veličković (DeepMind)): LoRA finetuning for inverse protein folding via VAE structural tokenization
 - Machine Vision Perception: Developed Diffusion Model-based semantic mask segmentation for improved medical image segmentation
