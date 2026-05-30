@@ -25,12 +25,16 @@ I am open to **Full-time positions** from **July 2026** onwards.
 - King's College, King's College Entrepreneurship Lab
 
 Selected work:
-- LLM Safety&Alignemnt
+- LLM Safety & Alignemnt
   - Activation Steering: Developed test-time activation steering methods for improved model alignment and yielding +12.5% improvement on Multiple Choice QA accuracy 
-- Inference Efficiency (collab. with Samsung AI): Speculative Decoding for improved CoT LLM inference on SGLang via speculative decoding by 4-6x.
-- Mechanistic Interpretability: SAE-based mechanistic interpretability for multimodal Alzheimer's prediction from text+neuroimaging data
-- Model Finetuning (Petar Veličković (DeepMind)): LoRA finetuning for inverse protein folding via VAE structural tokenization
-- Machine Vision Perception: Developed Diffusion Model-based semantic mask segmentation for improved medical image segmentation
+- Inference Efficiency (in collaboration with Samsung AI)
+  - Speculative Decoding for improved CoT LLM inference on SGLang via speculative decoding by 4-6x.
+- Deep Learning for Science (Petar Veličković (DeepMind)):
+  - LoRA finetuning for inverse protein folding via VAE structural tokenization, comparing transformer vs. GNN performance
+- Mechanistic Interpretability
+  - SAE-based mechanistic interpretability for multimodal Alzheimer's prediction from text+neuroimaging data
+- Machine Vision Perception:
+  - Developed Diffusion Model-based semantic mask segmentation for inference-time improved medical image segmentation
 
 **Charles University in Prague**  
 - BSc Computer Science (Specialization: Artificial Intelligence)
