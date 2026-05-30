@@ -19,10 +19,10 @@ I'm **Oszkár Urbán**, an MPhil student of Advanced Computer Science at the Uni
 I am open to **Full-time positions** from **July 2026** onwards.
 
 ## Education 📚
-**University of Cambridge**  
+**University of Cambridge (King's College)**  
 - Mphil Advanced Computer Science
 - Cambridge AI Safety Hub
-- King's College, King's College Entrepreneurship Lab
+- King's College Entrepreneurship Lab
 
 Selected work:
 - LLM Safety & Alignemnt
